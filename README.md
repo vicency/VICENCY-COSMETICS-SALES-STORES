@@ -55,4 +55,4 @@ To run this dashboard on your local machine, follow these steps:
     Your web browser will open with the dashboard. Use the file uploader to upload the `cosmetics.csv` file.
 
 3.  **Explore**
-    Once the data is loaded, use the filters in the sidebar to explore the sales data. The KPIs and charts will update dynamically based on your selections.# VICENCY-COSMETICS-SALES-STORES
+    Once the data is loaded, use the filters in the sidebar to explore the sales data. The KPIs and charts will update dynamically based on your selections.
